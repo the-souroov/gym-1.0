@@ -1,0 +1,18 @@
+{
+  "name": "gym-1.0",
+  "version": "1.0.0",
+  "description": "This is the official website of GYM 1.0 🐸.",
+  "main": "script.js",
+  "scripts": {
+    "compile:scss": "sass --watch ./scss/main.scss ./public/css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-souroov/gym-1.0.git"
+  },
+  "author": "Sourov Biswas",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.57.1"
+  }
+}
